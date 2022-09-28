@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Sardar Shoaib",
+    "description":"I have over two years of experience as a full-stack developer with a solid understanding of front-end and back-end technologies. I have strong knowledge of the MERN stack with vast experience in building web applications using React, mobile applications using React Native for the client side, Node.js/Express for the server side, and MongoDB for the database. I have expertise in Redux and React for building user interfaces and strong knowledge of state stores, middleware, action creators, reducers, and containers. deep understanding of JavaScript advanced concepts such as Closure, Scope Chain, async/await, and strong knowledge of object-oriented programming, design patterns, and agile scrum methodology",
+    "image":"profile.JPG",
+    "bio":"I am a Computer Scientist who just completed BSCS degree from the Pakistan one of the best IT university Federal urdu university Islamabad in Computer Science. I am a highly skilled professional developer who loves to take on the challenges and then solve them.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Sardarshoaib910@gmail.com",
+    "phone": "+923109457915",
+    "github":"https://github.com/sardarshoaib791",
+    "linkedin":"https://www.linkedin.com/in/sardar-shoaib-401a10213/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Islamabad,",
+      "state":"Pakistan",
+      "zip": "(Your Zip/Postal Code)"
+    },
+ 
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sardar-shoaib-401a10213/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/sardarshoaib91/https://www.facebook.com/sardarshoaib91/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/sardarshoaib791",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My top skills in which I have developed many projects and still working to improve.",
+    "education":[
+      {
+        "school":"Federal urdu University islamabad Pakistan.",
+        "degree":"Masters of Science in computer science (MSCS).",
+        "graduated":"January 2022"
+      },
+      {
+        "school":"Federal urdu University islamabad Pakistan.",
+        "degree":"Bechelor of Science",
+        "graduated":"Feb 2019"
+           }
+    ],
+    "work":[
+      {
+        "company":"Intellect Rising Tech",
+        "title":"MERN Stack developer.",
+        "years":"March 2022 - Present",
+        "description":"Working as a Full stack developer. I have completed one project. Currently working on an existing project."
+      },
+      {
+        "company":"NESL-IT",
+        "title":"React Native Developer.",
+        "years":"April 2021 - March 2022",
+        "description":"Started as React native developer after that developed REST API's in nodejs with mongoDB database, integrate push notifcation and socket io."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"React Native",
+        "level":"75%"
+      },
+      {
+        "name":"Typescript",
+        "level":"70%"
+      },
+      {
+        "name":"Next JS",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"50%"
+      },
+      {
+        "name":"Redux",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Firebase",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Feedu mobile Application",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"feedu.PNG",
+        "url":"https://play.google.com/store/search?q=feedu&c=apps&hl=en&gl=US"
+      },
+      {
+        "title":"Real state website (strideUp)",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"ss3.PNG",
+        "url":"https://www.strideup.co/"
+      },
+      {
+        "title":"Real State App in React Native",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"expo.PNG",
+        "url":"#"
+      },
+      {
+        "title":"FoodBook website",
+        "category":"A React based resume website template",
+        "image":"foodbook.PNG",
+        "url":"https://food-book.co/"
+      },
+      {
+        "title":"Pizza delievery website",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"pizza-site.PNG",
+        "url":"#"
+      },
+      {
+        "title":"Clone of FoodPanda",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"practice.PNG",
+        "url":"#"
+      }      
+    ]
+  }
+}
