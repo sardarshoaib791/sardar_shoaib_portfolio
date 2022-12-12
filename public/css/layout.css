@@ -218,6 +218,7 @@ ul#nav li.current a {
   width: 180px;
   height: 180px;
   border-radius: 100%;
+  object-fit: cover;
 }
 
 #about .contact-details {

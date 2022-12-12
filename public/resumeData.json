@@ -24,7 +24,7 @@
       },
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/sardarshoaib91/https://www.facebook.com/sardarshoaib91/",
+        "url":"https://www.facebook.com/sardarshoaib91/",
         "className":"fa fa-facebook"
       },
       {
@@ -38,14 +38,15 @@
     "skillmessage":"My top skills in which I have developed many projects and still working to improve.",
     "education":[
       {
+
         "school":"Federal urdu University islamabad Pakistan.",
-        "degree":"Masters of Science in computer science (MSCS).",
-        "graduated":"January 2022"
+        "degree":"Bechelor of Computer Science",
+        "graduated":"2017-2021"
       },
       {
-        "school":"Federal urdu University islamabad Pakistan.",
-        "degree":"Bechelor of Science",
-        "graduated":"Feb 2019"
+        "school":"Muhammdan Science college Hajira.",
+        "degree":"FSC pre engineering.",
+        "graduated":"2014-2016"
            }
     ],
     "work":[
@@ -64,44 +65,44 @@
     ],
     "skills":[
       {
-        "name":"ReactJs",
+        "name":"Adobe Photoshop",
+        "level":"95%"
+      },
+      {
+        "name":"Adobe Illustrator",
         "level":"80%"
       },
       {
-        "name":"React Native",
+        "name":"Adobe XD (UI/UX)",
+        "level":"90%"
+      },
+      {
+        "name":"Figma (UI/UX)",
+        "level":"90%"
+      },
+      {
+        "name":"Adobe After Effect",
         "level":"75%"
       },
       {
-        "name":"Typescript",
-        "level":"70%"
-      },
-      {
-        "name":"Next JS",
+        "name":"Adobe premier pro",
         "level":"80%"
       },
       {
-        "name":"NodeJS",
+        "name":"Adobe Character animator",
+        "level":"65%"
+      },
+      {
+        "name":"Vyond 2d animator",
+        "level":"98%"
+      },
+      {
+        "name":"Wondershare Filmora",
+        "level":"90%"
+      },
+      {
+        "name":"HTML/CSS",
         "level":"70%"
-      },
-      {
-        "name":"GraphQL",
-        "level":"50%"
-      },
-      {
-        "name":"Redux",
-        "level":"90%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
-      },
-      {
-        "name":"Firebase",
-        "level":"60%"
       }
     ]
   },
