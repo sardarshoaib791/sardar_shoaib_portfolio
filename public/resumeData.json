@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"My top skills in which I have developed many projects and still working to improve.",
+    "skillmessage":"My top skills in which I have work on many projects and still working to improve.",
     "education":[
       {
 
@@ -51,21 +51,27 @@
     ],
     "work":[
       {
-        "company":"Intellect Rising Tech",
-        "title":"MERN Stack developer.",
-        "years":"March 2022 - Present",
-        "description":"Working as a Full stack developer. I have completed one project. Currently working on an existing project."
+        "company":"Rohtas Marketing",
+        "title":"Graphics designer || Motion graphics",
+        "years":"Nov 2021 - Feb 2022",
+        "description":"Working as a Graphics designer || Motion graphics. I have Worked on 2 Chiled companies Designes.'Cygnus Marketing','Rohtas Digital'"
       },
       {
-        "company":"NESL-IT",
-        "title":"React Native Developer.",
-        "years":"April 2021 - March 2022",
-        "description":"Started as React native developer after that developed REST API's in nodejs with mongoDB database, integrate push notifcation and socket io."
+        "company":"5tree digital",
+        "title":"Graphics designer || Motion graphics || UI/UX designer",
+        "years":"June 2022 - present",
+        "description":"Currently Working at 5tree digital company as a Graphics designer || Motion graphics || UI/UX designer, for 'Naseems Accountants(www.naseems.co.uk)'"
+      },
+      {
+        "company":"Freelancing at upwor&fiverr",
+        "title":"Graphics designer || Motion graphics || UI/UX designer",
+        "years":"Feb 2017 - present",
+        "description":"Working on fiverr and upwork with lots of experience, I have worked with many International clients"
       }
     ],
     "skills":[
       {
-        "name":"Adobe Photoshoppp",
+        "name":"Adobe Photoshop",
         "level":"95%"
       },
       {
