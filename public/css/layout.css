@@ -143,7 +143,7 @@ header .scrolldown a:hover {
 ul#nav {
   min-height: 48px;
   width: auto;
-
+  background-color: #151123;
   /* center align the menu */
   text-align: center;
 }
@@ -464,7 +464,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-  background: #ebeeee;
+  background: #151123;
   padding-top: 90px;
   padding-bottom: 60px;
 }
@@ -1224,7 +1224,7 @@ footer .social-links li:first-child {
 }
 
 .github-btn {
-  background-color: #34495e !important;
+  background-color: rgb(85, 244, 12) !important;
   border-radius: 50px;
 }
 .responsive-headline {
@@ -1251,9 +1251,10 @@ footer .social-links li:first-child {
 }
 
 .project-image {
-  width: 400px;
+  /* width: 400px;
   height: 200px;
-  object-fit: cover;
+  object-fit: cover; */
+  max-width: 100%;
   border-radius: 10px;
 }
 

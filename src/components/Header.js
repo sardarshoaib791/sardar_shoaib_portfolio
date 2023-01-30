@@ -8,7 +8,7 @@ class Header extends Component {
     if (!this.props.data) return null;
 
     const linkedin = this.props.data.linkedin;
-    const github = this.props.data.github;
+    const linktree = this.props.data.linktree;
     const name = this.props.data.name;
     const description = this.props.data.description;
 
@@ -71,8 +71,10 @@ class Header extends Component {
                 <a target="_blank" href={linkedin} className="button btn linkedIn-btn">
                   <i className="fa fa-linkedin"></i>LinkedIn
                 </a>
-                <a target="_blank"  href={github} className="button btn github-btn" >
-                  <i className="fa fa-github"></i>Github
+                <a target="_blank"  href={linktree} className="button btn github-btn" >
+                <i className="fa fa-link"></i>
+                  {/* <img src="/images/linktree-logo-icon.svg"  style={{marginRight:"15px",height:"10px"}}/><span>Linktree</span> */}
+                  Linktree
                 </a>
               </ul>
             </Fade>

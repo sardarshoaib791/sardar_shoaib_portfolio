@@ -2,11 +2,12 @@
   "main": {
     "name":"Sardar Shoaib",
     "description":"Confident and creative Graphic designer, Graphics motion(video editing and animation) & UI/UX designer with extensive experience in Adobe Creative Suite over 5-year experience. Self-motivated and knowledgeable of the latest technologies with a strong grip on tools",
-    "image":"profile.JPG",
+    "image":"profile.png",
     "bio":"I am a Computer Scientist who just completed BSCS degree from the Pakistan one of the best IT university Federal urdu university Islamabad in Computer Science. I am a highly skilled professional developer who loves to take on the challenges and then solve them.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Sardarshoaib910@gmail.com",
     "phone": "+923109457915",
+    "linktree":"linktree",
     "github":"https://github.com/sardarshoaib791",
     "linkedin":"https://www.linkedin.com/in/sardar-shoaib-401a10213/",
     "address":{
@@ -28,9 +29,9 @@
         "className":"fa fa-facebook"
       },
       {
-        "name":"github",
-        "url":"https://github.com/sardarshoaib791",
-        "className":"fa fa-github"
+        "name":"linktree",
+        "url":"linktree",
+        "className":"fa fa-link"
       }
     ]
   },
@@ -115,39 +116,39 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Feedu mobile Application",
+        "title":"Responsive Websites Design",
         "category":"My Travel Blog for my post-university travels",
-        "image":"feedu.PNG",
-        "url":"https://play.google.com/store/search?q=feedu&c=apps&hl=en&gl=US"
+        "image":"uiuxport.png",
+        "url":"https:/shoaib.com"
       },
       {
-        "title":"Real state website (strideUp)",
+        "title":"Product Design Mobile App",
         "category":"(offline now) A fighting gear company I started",
-        "image":"ss3.PNG",
+        "image":"uiuxmobileapp.png",
         "url":"https://www.strideup.co/"
       },
       {
-        "title":"Real State App in React Native",
+        "title":"Branding Graphics",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"expo.PNG",
+        "image":"Branding.PNG",
         "url":"#"
       },
       {
-        "title":"FoodBook website",
+        "title":"Esports Graphics",
         "category":"A React based resume website template",
-        "image":"foodbook.PNG",
+        "image":"Esportslogo.PNG",
         "url":"https://food-book.co/"
       },
       {
-        "title":"Pizza delievery website",
+        "title":"Animation & Video Editing",
         "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"pizza-site.PNG",
+        "image":"Graphicsmotion.gif",
         "url":"#"
       },
       {
-        "title":"Clone of FoodPanda",
+        "title":"2D Animated Videos",
         "category":"My Travel Blog for my post-university travels",
-        "image":"practice.PNG",
+        "image":"Explainervideos.gif",
         "url":"#"
       }      
     ]
