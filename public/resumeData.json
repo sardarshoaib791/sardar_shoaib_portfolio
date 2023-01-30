@@ -7,8 +7,8 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Sardarshoaib910@gmail.com",
     "phone": "+923109457915",
-    "linktree":"linktree",
-    "github":"https://github.com/sardarshoaib791",
+    "linktree":"https://linktr.ee/sardarshoaib91",
+    "github":"https://linktr.ee/sardarshoaib91",
     "linkedin":"https://www.linkedin.com/in/sardar-shoaib-401a10213/",
     "address":{
       "street":"(Your Street)",
@@ -30,7 +30,7 @@
       },
       {
         "name":"linktree",
-        "url":"linktree",
+        "url":"https://linktr.ee/sardarshoaib91",
         "className":"fa fa-link"
       }
     ]
